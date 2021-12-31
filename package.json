@@ -1,0 +1,14 @@
+{
+  "name": "barebone-atom-package-coffee",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "",
+  "activationCommands": {
+    "atom-workspace": "barebone-coffee:owo"
+  },
+  "repository": "https://github.com/AcezukyRockon/barebone-atom-package-coffee",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
