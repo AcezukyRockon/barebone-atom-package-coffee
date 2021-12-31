@@ -1,5 +1,7 @@
 [Add apm to your PATH](https://stackoverflow.com/questions/38138900/complete-guide-for-installing-apm-on-windows/41353271)
+
 [Coffee package manual](http://web.archive.org/web/20160328161523/http://flight-manual.atom.io/hacking-atom/sections/package-modifying-text/)
+
 [Javascript version](https://github.com/AcezukyRockon/barebone-atom-package)
 
 Install package:
